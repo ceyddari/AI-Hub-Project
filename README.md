@@ -9,7 +9,7 @@ Breadth-First Search (BFS) ve A* algoritmaları kullanılmıştır.
 - BFS ile **en az aktarma** yapılan rotayı bulmak
 - A* algoritması ile **en hızlı** (süre bazlı) rotayı bulmak
 
-## 🛠️ Kullanılan Teknolojiler ve Kütüphaneler
+## Kullanılan Teknolojiler ve Kütüphaneler
 
 - **Python 3**
 - `collections.deque`: BFS algoritması için kuyruk yapısı sağlar.
